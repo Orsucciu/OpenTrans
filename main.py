@@ -33,8 +33,10 @@ matplotlib.use("TkAgg")
 with open('response.json') as f:
     jsonData = json.load(f)
 
+jsonData = jsonData["records"]
+
 for item in jsonData:
-    hits.append([item["fields"]["cou_text_fr"], item["fields"]["sum_i2"], item["fields"]["sum_i1"]])
+    hits.append([item["fields"]["cou_text_fr"], item["fields"]["i2"], item["fields"]["i1"]])
 
 data = pandas.DataFrame(hits, columns=['Paesi', 'Valore', 'Scambii'])
 
