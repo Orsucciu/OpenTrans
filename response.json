@@ -1,0 +1,132 @@
+[
+    {
+        "datasetid": "indice-tourisme-destination-regions",
+        "recordid": "4418c0200a403286ca8f84e13d907b38dcb9f5e8",
+        "fields": {
+            "mois_annee": "2017-01",
+            "insee_reg": "94",
+            "cou_text_fr": "Argentine",
+            "nom_reg": "CORSE",
+            "sum_i1": 2.825972381771911,
+            "sum_i2": 1.639623073623973
+        },
+        "record_timestamp": "2019-12-18T08:57:19.922000+00:00"
+    },
+    {
+        "datasetid": "indice-tourisme-destination-regions",
+        "recordid": "cdf19f8a61632223b540ad50f9d024df4dd1b122",
+        "fields": {
+            "mois_annee": "2017-01",
+            "insee_reg": "94",
+            "cou_text_fr": "Autriche",
+            "nom_reg": "CORSE",
+            "sum_i1": 22.607779054175317,
+            "sum_i2": 47.0642054530378
+        },
+        "record_timestamp": "2019-12-18T08:57:19.922000+00:00"
+    },
+    {
+        "datasetid": "indice-tourisme-destination-regions",
+        "recordid": "63dc6e3f19afa14ad225b1f707c7c13a47fbbee3",
+        "fields": {
+            "mois_annee": "2017-01",
+            "insee_reg": "94",
+            "cou_text_fr": "Danemark",
+            "nom_reg": "CORSE",
+            "sum_i1": 9.41990793923971,
+            "sum_i2": 21.869979272799398
+        },
+        "record_timestamp": "2019-12-18T08:57:19.922000+00:00"
+    },
+    {
+        "datasetid": "indice-tourisme-destination-regions",
+        "recordid": "02ff2e5047229499898bc8fad97e67c961842bd4",
+        "fields": {
+            "mois_annee": "2017-01",
+            "insee_reg": "94",
+            "cou_text_fr": "Estonie",
+            "nom_reg": "CORSE",
+            "sum_i1": 8.948912542277721,
+            "sum_i2": 3.07982081306841
+        },
+        "record_timestamp": "2019-12-18T08:57:19.922000+00:00"
+    },
+    {
+        "datasetid": "indice-tourisme-destination-regions",
+        "recordid": "441130264557c12f4ebb76ae581fc06264ec8ba3",
+        "fields": {
+            "mois_annee": "2017-01",
+            "insee_reg": "94",
+            "cou_text_fr": "Finlande",
+            "nom_reg": "CORSE",
+            "sum_i1": 10.36189873316368,
+            "sum_i2": 7.79232816639802
+        },
+        "record_timestamp": "2019-12-18T08:57:19.922000+00:00"
+    },
+    {
+        "datasetid": "indice-tourisme-destination-regions",
+        "recordid": "8ae326c8bf35fcd87280dcca46f30b09832c71e9",
+        "fields": {
+            "mois_annee": "2017-01",
+            "insee_reg": "94",
+            "cou_text_fr": "Hongrie",
+            "nom_reg": "CORSE",
+            "sum_i1": 3.296967778733901,
+            "sum_i2": 1.848802907844905
+        },
+        "record_timestamp": "2019-12-18T08:57:19.922000+00:00"
+    },
+    {
+        "datasetid": "indice-tourisme-destination-regions",
+        "recordid": "0971ba4f817630ee4942d04e38fcb1d63c833cdc",
+        "fields": {
+            "mois_annee": "2017-01",
+            "insee_reg": "94",
+            "cou_text_fr": "Inde",
+            "nom_reg": "CORSE",
+            "sum_i1": 1.883981587847946,
+            "sum_i2": 0.47094726199833997
+        },
+        "record_timestamp": "2019-12-18T08:57:19.922000+00:00"
+    },
+    {
+        "datasetid": "indice-tourisme-destination-regions",
+        "recordid": "dd700b0ce67b79284f07dc0144a93e566e997236",
+        "fields": {
+            "mois_annee": "2017-01",
+            "insee_reg": "94",
+            "cou_text_fr": "Israël",
+            "nom_reg": "CORSE",
+            "sum_i1": 1.412986190885957,
+            "sum_i2": 1.7688160075054982
+        },
+        "record_timestamp": "2019-12-18T08:57:19.922000+00:00"
+    },
+    {
+        "datasetid": "indice-tourisme-destination-regions",
+        "recordid": "25bd86785bb8a7be63b5890fffd24ae7a9d102dc",
+        "fields": {
+            "mois_annee": "2017-01",
+            "insee_reg": "94",
+            "cou_text_fr": "Nouvelle-Zélande",
+            "nom_reg": "CORSE",
+            "sum_i1": 2.354976984809926,
+            "sum_i2": 2.141914795755315
+        },
+        "record_timestamp": "2019-12-18T08:57:19.922000+00:00"
+    },
+    {
+        "datasetid": "indice-tourisme-destination-regions",
+        "recordid": "9ab009e3715c753c2440d619db32b82be9eb1f64",
+        "fields": {
+            "mois_annee": "2017-01",
+            "insee_reg": "94",
+            "cou_text_fr": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+            "nom_reg": "CORSE",
+            "sum_i1": 178.03626005163102,
+            "sum_i2": 200.62899613131611
+        },
+        "record_timestamp": "2019-12-18T08:57:19.922000+00:00"
+    }
+]
